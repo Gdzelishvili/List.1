@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
 //i am from website 
-
+//i am from andorid studio
 public class MainActivity extends AppCompatActivity {
     ListView lv;
     ArrayList arrayList;
