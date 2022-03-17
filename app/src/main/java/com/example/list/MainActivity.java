@@ -7,6 +7,7 @@ import android.widget.ListView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
+//i am from website 
 
 public class MainActivity extends AppCompatActivity {
     ListView lv;
@@ -26,4 +27,4 @@ public class MainActivity extends AppCompatActivity {
                 android.R.layout.simple_list_item_1,arrayList);
         lv.setAdapter(arrayAdapter);
     }
-}
+} 
